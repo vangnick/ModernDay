@@ -1,0 +1,53 @@
+  .header img {
+    float: inline-start;
+    width: 100px;
+    height: 100px;
+    background: #555;
+  }
+  
+  .header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
+h1 {
+  font-size: 600%;
+}
+style { 
+  opacity: 0.5;
+}
+nav a { 
+  font-family: fantasy;
+  font-size: 100%;
+  float: center;
+  color: #090a0a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  padding-left: 100px;
+padding-right: 100px;
+}
+  a:hover {
+    background-color: rgba(88, 102, 109, 0.205);
+    color: black;
+  }
+body {
+  background-image: url(/images/hmong\ mountains.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p{
+  background-color:rgb(255, 255, 255);
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
